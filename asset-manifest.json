@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/depo_adi/static/css/main.1999bf7c.css",
+    "main.js": "/depo_adi/static/js/main.4d07bf34.js",
+    "static/js/415.4d6acbeb.chunk.js": "/depo_adi/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/depo_adi/static/js/787.1ed0c42c.chunk.js",
+    "static/media/my_avatar.png": "/depo_adi/static/media/my_avatar.1643f1c964fdf0ee7164.png",
+    "static/media/siteaccess.png": "/depo_adi/static/media/siteaccess.5dbfc4f8213c4e3e0133.png",
+    "static/media/Muhammed_Kalabasi_e1.8.pdf": "/depo_adi/static/media/Muhammed_Kalabasi_e1.8.abc30c9435363e68977e.pdf",
+    "static/media/weddinghall.png": "/depo_adi/static/media/weddinghall.55eecafa50eea43a2157.png",
+    "static/media/perninvoice.png": "/depo_adi/static/media/perninvoice.2a790c3cb87ae7b3337c.png",
+    "static/media/webrtctalkmate.png": "/depo_adi/static/media/webrtctalkmate.aa97b0f2df8590eb3025.png",
+    "static/media/merninvoice.png": "/depo_adi/static/media/merninvoice.6070d2a6fd7f57f544ac.png",
+    "static/media/home-main.svg": "/depo_adi/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/depo_adi/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/minitaf.png": "/depo_adi/static/media/minitaf.79517e0294a316086e22.png",
+    "static/media/home-bg.jpg": "/depo_adi/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/movinghouse.png": "/depo_adi/static/media/movinghouse.1dccf103f74d775e1f8d.png",
+    "static/media/licensemanagement.png": "/depo_adi/static/media/licensemanagement.098456ecee8af2e07a3f.png",
+    "static/media/bodyguessr.png": "/depo_adi/static/media/bodyguessr.7802108d9831cdd743bc.png",
+    "static/media/rtcgw.jpeg": "/depo_adi/static/media/rtcgw.cb886b1bdc54a849c405.jpeg",
+    "static/media/tutoringcenter.png": "/depo_adi/static/media/tutoringcenter.89800e514a3d497b30d7.png",
+    "static/media/pre.svg": "/depo_adi/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/depo_adi/index.html",
+    "main.1999bf7c.css.map": "/depo_adi/static/css/main.1999bf7c.css.map",
+    "main.4d07bf34.js.map": "/depo_adi/static/js/main.4d07bf34.js.map",
+    "415.4d6acbeb.chunk.js.map": "/depo_adi/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/depo_adi/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1999bf7c.css",
+    "static/js/main.4d07bf34.js"
+  ]
+}
